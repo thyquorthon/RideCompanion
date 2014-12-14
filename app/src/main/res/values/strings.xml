@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ride Companion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">777030785703063</string>
+    <string name="app_id">777030785703063</string>
+    <string name="title_facebook_login">Login with facebook</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_start_track">Start Track</string>
+
+</resources>
